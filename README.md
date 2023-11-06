@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+Implement Clean Architecture With Riverpod.
 
 ## Getting Started
 
